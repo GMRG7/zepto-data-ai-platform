@@ -1,0 +1,2 @@
+PASS: category_join SQL matches pandas merge.
+PASS: category_counts SQL matches pandas merge/groupby.
